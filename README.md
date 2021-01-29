@@ -1,2 +1,2 @@
 # micropython_examples
-Micropython examples for article
+Micropython examples for new book.
